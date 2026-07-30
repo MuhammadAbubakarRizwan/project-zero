@@ -28,8 +28,8 @@ Fill this file in as you go. This is what you submit and what you present from o
 
 ## Artifacts
 
-- Architecture diagram (in docs):
-- Screenshots (in proof):
+- Architecture diagram (in docs): Done
+- Screenshots (in proof): Done
 
 ## Proof of learning
 
