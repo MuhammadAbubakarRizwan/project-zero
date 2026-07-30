@@ -12,7 +12,7 @@ Fill this file in as you go. This is what you submit and what you present from o
 - Live site (Vercel): https://muhammadabubakarrizwan.vercel.app/
 - Repository: https://github.com/MuhammadAbubakarRizwan/project-zero/tree/main
 - Project board (ClickUp): https://app.clickup.com/90182856504/dashboards/2kzn2btr-158
-- Loom walkthrough video:
+- Loom walkthrough video: https://www.loom.com/share/1d2be136340f4d0b8f69fb51157280bb
 
 ## Certifications
 
