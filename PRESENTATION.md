@@ -35,12 +35,15 @@ Fill this file in as you go. This is what you submit and what you present from o
 
 One line per skill: what you learned and your confidence from one to three. Pull these from LEARNING_LOG.md.
 
-- Software development lifecycle (SDLC):
-- Git and GitHub:
-- Dev hygiene:
+- Software development lifecycle (SDLC): is a structured process used by engineering teams to design, build, test, deploy, and maintain high-quality software efficiently throughout its lifespan.
+- Git and GitHub: Git is the local tool that tracks your code history, while GitHub is the cloud platform where you host and share those Git repositories. 
+- Dev hygiene: Leave the codebase cleaner than you found it.
 - (add any others)
 
 ## Summary
+
+In this project, I will learn about claude, claude code, git and github. How to secure repositories. how to create secure accounts on different sites that are use during develompent and deploment and for saving data securely. I create my portfolio architecture diagram & build portfolio site. after site comletetion deploy the site to vercel and live site link attach in presentation.md
+
 
 In your own words, a short paragraph on what you built and what you learned. This is what you will walk us through on the call.
 
